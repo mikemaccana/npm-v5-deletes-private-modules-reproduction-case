@@ -1,4 +1,4 @@
-# npm deleting pruvate modules reproduction case
+# npm deleting private modules reproduction case
 
 Simply check out this repo on a clean system (I force cleared the npm cache first)
 
