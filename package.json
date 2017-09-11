@@ -1,0 +1,9 @@
+{
+  "name": "npm-v5-deletes-private-modules-reproduction-case",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "i-am-installed-but-will-be-deleted-for-no-reason": "^1.0.0",
+    "lodash": "^4.17.4"
+  }
+}
